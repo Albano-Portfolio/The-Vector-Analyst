@@ -1,0 +1,8 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="120" fill="#050816"/>
+  <circle cx="256" cy="256" r="196" fill="url(#g)" opacity=".22"/>
+  <path d="M146 321c17 25 43 39 76 39 55 0 86-33 86-92V137h-60v131c0 25-10 38-30 38-16 0-28-8-38-23l-34 38Z" fill="white"/>
+  <path d="M323 358h62L292 137h-59l90 221Zm-49-83h73l-17-45c-8-22-13-39-18-57h-2c-5 18-11 36-19 58l-17 44Z" fill="white" opacity=".92"/>
+  <path d="M92 421c92-47 236-49 329 0" stroke="#68E1FD" stroke-width="14" stroke-linecap="round" opacity=".85"/>
+  <defs><radialGradient id="g" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(256 256) rotate(90) scale(224)"><stop stop-color="#68E1FD"/><stop offset=".52" stop-color="#7C3AED"/><stop offset="1" stop-color="#050816"/></radialGradient></defs>
+</svg>
